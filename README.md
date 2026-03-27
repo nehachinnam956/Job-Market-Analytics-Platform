@@ -13,7 +13,7 @@ A two-part project that scrapes remote job listings from the RemoteOK API, filte
 - [Configuration](#configuration)
 - [Usage](#usage)
 - [Pipeline: pipeline.py](#pipeline-pipelinepy)
-- [Dashboard: apppy](#dashboard-apppy)
+- [Dashboard: appy](#dashboard-appy)
 - [Security Notice](#security-notice)
 
 ---
